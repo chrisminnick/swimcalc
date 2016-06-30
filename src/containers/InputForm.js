@@ -1,6 +1,5 @@
 import React from 'react';
 import InputNumber from '../components/InputNumber';
-import CalculateButton from '../components/CalculateButton';
 
 class InputForm extends React.Component {
 
